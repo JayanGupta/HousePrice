@@ -6,7 +6,6 @@ This project aims to predict house prices using machine learning algorithms. By 
 ## Project Structure
 - `data/`: Contains the dataset(s) used for training and testing.
 - `notebooks/`: Jupyter notebooks for data exploration and model development.
-- `scripts/`: Python scripts for data preprocessing, model training, and evaluation.
 - `results/`: Evaluation metrics and visualizations.
 
 ## Dataset
