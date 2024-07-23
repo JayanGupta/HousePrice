@@ -10,3 +10,7 @@ This document tracks engineering milestones, experiment logs, parameter optimiza
 - **Focus**: refactor: streamline missing value imputation logic
 - **Technical Summary**: Replaced iterative imputation with median strategy for numerical columns.
 
+### Milestone Log - 2024-07-23 (10:55)
+- **Focus**: docs: add feature importance analysis for Ames dataset
+- **Technical Summary**: Identified OverallQual, GrLivArea, and Neighborhood as primary predictors.
+
