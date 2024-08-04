@@ -22,3 +22,7 @@ This document tracks exploratory data analysis findings, feature engineering ite
 - **Focus**: perf: optimize cross-validation splits for grid search
 - **Technical Summary**: Standardized KFold(n_splits=5, shuffle=True) with reproducible random seed.
 
+### Milestone Log - 2024-08-04 (15:51)
+- **Focus**: docs: update XGBoost hyperparameter tuning guide
+- **Technical Summary**: Documented optimal hyperparameters: learning_rate=0.05, max_depth=4, n_estimators=600.
+
