@@ -62,3 +62,7 @@ This document tracks engineering milestones, experiment logs, parameter optimiza
 - **Focus**: docs: add feature importance analysis for Ames dataset
 - **Technical Summary**: Identified OverallQual, GrLivArea, and Neighborhood as primary predictors.
 
+### Milestone Log - 2024-09-05 (10:23)
+- **Focus**: refactor: vectorize log-transformation for skewed target
+- **Technical Summary**: Applied np.log1p on SalePrice to normalize residual distribution.
+
