@@ -146,3 +146,7 @@ This document tracks engineering milestones, experiment logs, parameter optimiza
 - **Focus**: docs: update XGBoost hyperparameter tuning documentation
 - **Technical Summary**: Documented best parameters: learning_rate=0.05, max_depth=4, n_estimators=600.
 
+### Milestone Log - 2024-11-01 (10:24)
+- **Focus**: docs: update regression model performance metrics
+- **Technical Summary**: Added RMSE and R² comparison across Linear, Ridge, and Lasso models.
+
