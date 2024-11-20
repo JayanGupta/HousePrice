@@ -174,3 +174,7 @@ This document tracks engineering milestones, experiment logs, parameter optimiza
 - **Focus**: docs: update regression model performance metrics
 - **Technical Summary**: Added RMSE and R² comparison across Linear, Ridge, and Lasso models.
 
+### Milestone Log - 2024-11-20 (14:53)
+- **Focus**: refactor: streamline missing value imputation logic
+- **Technical Summary**: Replaced iterative imputation with median strategy for numerical columns.
+
