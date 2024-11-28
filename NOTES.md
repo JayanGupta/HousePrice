@@ -190,3 +190,7 @@ This document tracks engineering milestones, experiment logs, parameter optimiza
 - **Focus**: perf: optimize cross-validation splits for grid search
 - **Technical Summary**: Used KFold(n_splits=5, shuffle=True) with fixed random seed.
 
+### Milestone Log - 2024-11-28 (10:50)
+- **Focus**: docs: update XGBoost hyperparameter tuning documentation
+- **Technical Summary**: Documented best parameters: learning_rate=0.05, max_depth=4, n_estimators=600.
+
