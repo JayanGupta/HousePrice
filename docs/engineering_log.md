@@ -178,3 +178,7 @@ This document tracks exploratory data analysis findings, feature engineering ite
 - **Focus**: refactor: streamline missing value imputation logic
 - **Technical Summary**: Documented median imputation strategy for numerical features.
 
+### Milestone Log - 2024-12-19 (10:40)
+- **Focus**: docs: add feature importance analysis for Ames dataset
+- **Technical Summary**: Identified OverallQual, GrLivArea, and Neighborhood as primary predictors.
+
