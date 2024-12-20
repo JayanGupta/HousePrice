@@ -186,3 +186,7 @@ This document tracks exploratory data analysis findings, feature engineering ite
 - **Focus**: refactor: vectorize log-transformation for skewed target
 - **Technical Summary**: Documented np.log1p transformation on SalePrice to normalize residuals.
 
+### Milestone Log - 2024-12-20 (17:30)
+- **Focus**: perf: optimize cross-validation splits for grid search
+- **Technical Summary**: Standardized KFold(n_splits=5, shuffle=True) with reproducible random seed.
+
