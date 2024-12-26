@@ -194,3 +194,7 @@ This document tracks exploratory data analysis findings, feature engineering ite
 - **Focus**: docs: update XGBoost hyperparameter tuning guide
 - **Technical Summary**: Documented optimal hyperparameters: learning_rate=0.05, max_depth=4, n_estimators=600.
 
+### Milestone Log - 2024-12-26 (10:19)
+- **Focus**: docs: update regression model performance metrics
+- **Technical Summary**: Added RMSE and R² comparison across Linear, Ridge, and Lasso baselines.
+
