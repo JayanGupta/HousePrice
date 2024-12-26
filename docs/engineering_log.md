@@ -198,3 +198,7 @@ This document tracks exploratory data analysis findings, feature engineering ite
 - **Focus**: docs: update regression model performance metrics
 - **Technical Summary**: Added RMSE and R² comparison across Linear, Ridge, and Lasso baselines.
 
+### Milestone Log - 2024-12-26 (15:35)
+- **Focus**: refactor: streamline missing value imputation logic
+- **Technical Summary**: Documented median imputation strategy for numerical features.
+
