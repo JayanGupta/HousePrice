@@ -206,3 +206,7 @@ This document tracks exploratory data analysis findings, feature engineering ite
 - **Focus**: docs: add feature importance analysis for Ames dataset
 - **Technical Summary**: Identified OverallQual, GrLivArea, and Neighborhood as primary predictors.
 
+### Milestone Log - 2024-12-27 (15:47)
+- **Focus**: refactor: vectorize log-transformation for skewed target
+- **Technical Summary**: Documented np.log1p transformation on SalePrice to normalize residuals.
+
